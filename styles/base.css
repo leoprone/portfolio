@@ -46,12 +46,6 @@ background-repeat: repeat-y; */
 
 
 
-  @font-face {
- 
-    font-family: "fuente-mia";
-    src: url("../assets/Fuente_mia_ultima-Regular.ttf");
-  } 
-
 .font-size{
   font-size: 0.15px;
 }
